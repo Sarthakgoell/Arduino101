@@ -1,6 +1,3 @@
-// Adafruit Motor shield library
-// copyright Adafruit Industries LLC, 2009
-// this code is public domain, enjoy!
 
 
 #if (ARDUINO >= 100)
