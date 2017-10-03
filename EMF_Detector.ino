@@ -1,7 +1,7 @@
 /*This project measures the EMF intensity around any ac electrical appliances by LED 
  * this project is one of the simplest one that you can try.
  * Before attempting the project get some idea about constrain() and map() functions in arduino math
- * the fitzing sketch regarding the project can be found in Arduino101 repository 
+ * the fritzing sketch regarding the project can be found in Arduino101 repository 
                                                                                - Abhyuday  */
  
 
