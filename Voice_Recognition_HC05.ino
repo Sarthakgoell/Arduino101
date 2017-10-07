@@ -23,6 +23,6 @@ if(voice == "******") // Voice command according to you
 }
 else if(voice == "********")//voice command according to you
 {
-  //Put what you wanna do
+  //Put what you wanna do 
 }
 voice = "";//initialising string again }}
