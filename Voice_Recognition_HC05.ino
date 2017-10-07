@@ -25,4 +25,4 @@ else if(voice == "********")//voice command according to you
 {
   //Put what you wanna do
 }
-voice = "";//initialsing string again }}
+voice = "";//initialising string again }}
